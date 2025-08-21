@@ -1,0 +1,1 @@
+-- schema.sql – Tables for Supabase
